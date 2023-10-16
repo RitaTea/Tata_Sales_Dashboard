@@ -1,5 +1,5 @@
 # Tata_Sales_Dashboard
-This is a Sales Dashboard showing the Revenue pattern of this company.
+This is a Sales Dashboard showing the Revenue pattern of an organization.
 
 ![](./TATA_dashboard.JPG)
 
@@ -20,4 +20,4 @@ Furthermore, the country with the highest generating revenue and highest order b
 
 In conclusion, the company should identify its peak period and make use of these periods to recoup revenue for itself against periods with little sales.
 
-
+# please view and download pdf. and pbix. files for full report and interactions
