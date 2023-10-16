@@ -1,7 +1,7 @@
 # Tata_Sales_Dashboard
 This is a sales dashboard showing the revenue pattern of an organization.
 
-![](./TATA_dashboard.JPEG)
+![](./TATA_dashboard.JPG)
 
 This project is on the Tata Sales Dashboard, and it shows the analysis of the company's revenue, quantity sold, and also the best buying country and individual.
 
