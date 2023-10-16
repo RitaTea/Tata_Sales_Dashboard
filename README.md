@@ -1,7 +1,9 @@
 # Tata_Sales_Dashboard
 This is a Sales Dashboard showing the Revenue pattern of this company.
 
-Hello, fellow data analysts! I am here to share with you a project on the Tata Sales Dashboard, which helps to analyze the company's revenue, quantity sold, and also the best buying country and individual.
+![](./TATA_dashboard.JPG)
+
+This project is on the Tata Sales Dashboard, and it shows the analysis of the company's revenue, quantity sold, and also the best buying country and individual.
 
 Analyzing the revenue of a country has a great impact on a company because a company can only be a going concern when it generates profits.
 
